@@ -1,6 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
- const name = "Your name";
-const root = ReactDOM.createRoot(document.getElementById('root'));
- root.render( React.createElement('h1', {style: {textAlign: 'center'}}, name)
- )
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+    <div>
+        <h1>Hello world!</h1>
+        <h2>It is {new Date().toLocaleTimeString()}</h2>
+    </div>
+)

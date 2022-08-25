@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b6dd75d-d8a7-471e-a928-0c90f441a1f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT2/your-name/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT3/your-name/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT4/your-name/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TH3-tao-element-the-hien-cac-loai-qua/your-name/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/myapp/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BT1/myapp/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH1/your-name/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/TH1/your-name/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BT1/myapp/.gitignore" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dq2za3ZEbhEhezqxpdyoDdu8dT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/codegym/modul5/JSX",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b6dd75d-d8a7-471e-a928-0c90f441a1f3" name="Changes" comment="" />
+      <created>1661412556764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661412556764</updated>
+      <workItem from="1661412558211" duration="11361000" />
+      <workItem from="1661434555896" duration="5345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
